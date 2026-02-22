@@ -1,0 +1,34 @@
+{
+  "termos_base": [
+    ["\\b(RESERVES|RES\\.|RES|II|B|C|U23|U20|U19|SAD|PROMESAS)\\b", "RESERVES"]
+  ],
+  "substituicoes_times": {
+    "\\bST\\.? LIEGE\\b": "STANDARD",
+    "\\bPSG\\b": "PARIS ST-G",
+    "\\bATH\\.? BILBAO\\b": "ATHLETIC BILBAO",
+    "\\bB\\.? MONCHENGLADBACH\\b": "BORUSSIA",
+    "\\bIND\\.? DEL VALLE\\b": "INDEPENDIENTE",
+    "\\bU\\.? DE DEPORTES\\b": "UNIVERSITARIO",
+    "\\bGV SAN JOSE\\b": "GUALBERTO VILLARROEL",
+    "\\bUTD\\b": "UNITED",
+    "\\bMAN\\b": "MANCHESTER",
+    "\\bUNI\\b": "UNIVERSIDAD",
+    "\\bUNIV\\b": "UNIVERSIDAD",
+    "\\bDYN\\b": "DYNAMO",
+    "\\bDEP\\.?\\b": "DEPORTIVO",
+    "\\bATL\\.?\\b": "ATLETICO",
+    "\\bATH\\.?\\b": "ATLETICO",
+    "\\bL\\.?P\\.?\\b": "LA PLATA",
+    "\\bU\\.?\\b": "UNIVERSIDAD",
+    "\\bB\\.?\\b": "BORUSSIA",
+    "\\bO\\.?\\b": "OLIMPIJA",
+    "\\bFC\\b": "",
+    "\\bSC\\b": "",
+    "\\bAF\\b": "",
+    "\\bCLUB\\b": "",
+    "\\bDE\\b": "",
+    "\\bVA\\b": "",
+    "\\-": " ",
+    "\\.": ""
+  }
+}
