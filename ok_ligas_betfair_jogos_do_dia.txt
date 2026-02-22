@@ -643,15 +643,15 @@ Spanish La Liga
 Spanish Liga F
 Spanish Primera Division RFEF Group 1
 Spanish Primera Division RFEF Group 2
-Spanish Primera FederaciÃ³n - Group 1
-Spanish Primera FederaciÃ³n - Group 2
+Spanish Primera Federación - Group 1
+Spanish Primera Federación - Group 2
 Spanish Segunda B Playoffs
 Spanish Segunda Division
-Spanish Segunda FederaciÃ³n - Group 1
-Spanish Segunda FederaciÃ³n - Group 2
-Spanish Segunda FederaciÃ³n - Group 3
-Spanish Segunda FederaciÃ³n - Group 4
-Spanish Segunda FederaciÃ³n - Group 5
+Spanish Segunda Federación - Group 1
+Spanish Segunda Federación - Group 2
+Spanish Segunda Federación - Group 3
+Spanish Segunda Federación - Group 4
+Spanish Segunda Federación - Group 5
 Spanish Segunda Ladies
 Spanish Segunda RFEF - Group 1
 Spanish Segunda RFEF - Group 2
