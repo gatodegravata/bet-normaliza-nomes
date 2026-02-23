@@ -1,102 +1,102 @@
-nome_errado;nome_correto
-ARGENTINA 1;Argentinian Primera Division
-ARGENTINA 2;Argentinian Primera Nacional
-AUSTRALIA 1;Australian A-League Men
-AUSTRIA 1;Austrian Bundesliga
-AUSTRIA 2;Austrian Erste Liga
-BELGIUM 1;Belgian Pro League
-BELGIUM 2;Belgian Challenger Pro League
-BRAZIL 1;Brazilian Serie A
-BRAZIL 2;Brazilian Serie B
-BRAZIL COPA;Brazilian Cup
-CHILE 1;Chilean Primera Division
-CHINA 1;Chinese Super League
-COLOMBIA 1;Colombian Primera A
-CROATIA 1;Croatian HNL
-CZECH 1;Czech 1 Liga
-DENMARK 1;Danish Superliga
-DENMARK 2;Danish 1st Division
-ECUADOR 1;Ecuadorian Serie A
-ENGLAND 1;English Premier League
-ENGLAND 2;English Championship
-ENGLAND 3;English League 1
-ENGLAND 4;English League 2
-FRANCE 1;French Ligue 1
-FRANCE 2;French Ligue 2
-GERMANY 1;German Bundesliga
-GERMANY 2;German Bundesliga 2
-GERMANY 3;German 3 Liga
-GREECE 1;Greek Super League
-ITALY 1;Italian Serie A
-ITALY 2;Italian Serie B
-ITALY 3;Italian Serie C
-JAPAN 1;Japanese J League
-JAPAN 2;Japanese J League 2
-MEXICO 1;Mexican Liga MX
-NETHERLANDS 1;Dutch Eredivisie
-NETHERLANDS 2;Dutch Eerste Divisie
-NORWAY 1;Norwegian Eliteserien
-PORTUGAL 1;Portuguese Primeira Liga
-PORTUGAL 2;Portuguese Segunda Liga
-SAUDI ARABIA 1;Saudi Professional League
-SCOTLAND 1;Scottish Premiership
-SPAIN 1;Spanish La Liga
-SPAIN 2;Spanish Segunda Division
-SWITZERLAND 1;Swiss Super League
-TURKEY 1;Turkish Super League
-USA 1;US Major League Soccer
-ALGERIA 1;Algerian Ligue 1
-ALGERIA 2;Algerian Ligue 2
-BOLIVIA 1;Bolivian Liga de Futbol Profesional
-BOSNIA 1;Bosnian Premier League
-BULGARIA 1;Bulgarian A League
-CYPRUS 1;Cypriot 1st Division
-ESTONIA 1;Estonian Premier League
-FINLAND 1;Finnish Veikkausliiga
-FINLAND 2;Finnish Ykkonen
-HUNGARY 1;Hungarian NB I
-ISRAEL 1;Israeli Premier League
-PARAGUAY 1;Paraguayan Primera Division
-POLAND 1;Polish Ekstraklasa
-ROMANIA 1;Romanian Liga I
-SERBIA 1;Serbian Super League
-SLOVAKIA 1;Slovakian Super League
-SLOVENIA 1;Slovenian Premier League
-SOUTH AFRICA 1;South African Premier Division
-SOUTH KOREA 1;South Korean K League 1
-SWEDEN 1;Swedish Allsvenskan
-SWEDEN 2;Swedish Superettan
-UKRAINE 1;Ukrainian Premier League
-URUGUAY 1;Uruguayan Primera Division
-ARGENTINA COPA;Argentinian Cup
-EGYPT 1;Egyptian Premier
-ENGLAND 5;English National League
-ENGLAND U21;English U21 Pro Development League
-EUROPA CHAMPIONS LEAGUE;UEFA Champions League
-EUROPA CONFERENCE LEAGUE;UEFA Europa Conference League
-EUROPA LEAGUE;UEFA Europa League
-FRANCE 3;French National
-FRANCE 4;French National 2
-ICELAND 1;Icelandic Urvalsdeild
-ICELAND 2;Icelandic 1 Deild
-IRELAND 1;Irish Premier Division
-IRELAND 2;Irish Division 1
-ITALY 4;Italian Serie D
-MEXICO 2;Mexican Liga de Ascenso
-MOROCCO 1;Moroccan Botola Pro 1
-NORTHERN IRELAND 1;Northern Irish Premiership
-NORWAY 2;Norwegian 1st Division
-PERU 1;Peruvian Primera Division
-PORTUGAL 3;Portuguese Liga 3
-SCOTLAND 2;Scottish Championship
-SCOTLAND 3;Scottish League One
-SCOTLAND 4;Scottish League Two
-SOUTH KOREA 2;South Korean K League 2
-SPAIN 3;Spanish Primera Federación - Group 1
-SPAIN 4;Spanish Segunda Federación - Group 1
-SWITZERLAND 2;Swiss Challenge League
-TUNISIA 1;Tunisian Ligue Professionelle 1
-TURKEY 2;Turkish 1 Lig
-USA 2;US United Soccer League
-VENEZUELA 1;Venezuelan Primera Division
-WALES 1;Welsh Premiership
+nome_errado;nome_correto;country
+ARGENTINA 1;Argentinian Primera Division;ARGENTINA
+ARGENTINA 2;Argentinian Primera Nacional;ARGENTINA
+AUSTRALIA 1;Australian A-League Men;AUSTRALIA
+AUSTRIA 1;Austrian Bundesliga;AUSTRIA
+AUSTRIA 2;Austrian Erste Liga;AUSTRIA
+BELGIUM 1;Belgian Pro League;BELGIUM
+BELGIUM 2;Belgian Challenger Pro League;BELGIUM
+BRAZIL 1;Brazilian Serie A;BRAZIL
+BRAZIL 2;Brazilian Serie B;BRAZIL
+BRAZIL COPA;Brazilian Cup;BRAZIL
+CHILE 1;Chilean Primera Division;CHILE
+CHINA 1;Chinese Super League;CHINA
+COLOMBIA 1;Colombian Primera A;COLOMBIA
+CROATIA 1;Croatian HNL;CROATIA
+CZECH 1;Czech 1 Liga;CZECH REPUBLIC
+DENMARK 1;Danish Superliga;DENMARK
+DENMARK 2;Danish 1st Division;DENMARK
+ECUADOR 1;Ecuadorian Serie A;ECUADOR
+ENGLAND 1;English Premier League;ENGLAND
+ENGLAND 2;English Championship;ENGLAND
+ENGLAND 3;English League 1;ENGLAND
+ENGLAND 4;English League 2;ENGLAND
+FRANCE 1;French Ligue 1;FRANCE
+FRANCE 2;French Ligue 2;FRANCE
+GERMANY 1;German Bundesliga;GERMANY
+GERMANY 2;German Bundesliga 2;GERMANY
+GERMANY 3;German 3 Liga;GERMANY
+GREECE 1;Greek Super League;GREECE
+ITALY 1;Italian Serie A;ITALY
+ITALY 2;Italian Serie B;ITALY
+ITALY 3;Italian Serie C;ITALY
+JAPAN 1;Japanese J League;JAPAN
+JAPAN 2;Japanese J League 2;JAPAN
+MEXICO 1;Mexican Liga MX;MEXICO
+NETHERLANDS 1;Dutch Eredivisie;NETHERLANDS
+NETHERLANDS 2;Dutch Eerste Divisie;NETHERLANDS
+NORWAY 1;Norwegian Eliteserien;NORWAY
+PORTUGAL 1;Portuguese Primeira Liga;PORTUGAL
+PORTUGAL 2;Portuguese Segunda Liga;PORTUGAL
+SAUDI ARABIA 1;Saudi Professional League;SAUDI ARABIA
+SCOTLAND 1;Scottish Premiership;SCOTLAND
+SPAIN 1;Spanish La Liga;SPAIN
+SPAIN 2;Spanish Segunda Division;SPAIN
+SWITZERLAND 1;Swiss Super League;SWITZERLAND
+TURKEY 1;Turkish Super League;TURKEY
+USA 1;US Major League Soccer;USA
+ALGERIA 1;Algerian Ligue 1;ALGERIA
+ALGERIA 2;Algerian Ligue 2;ALGERIA
+BOLIVIA 1;Bolivian Liga de Futbol Profesional;BOLIVIA
+BOSNIA 1;Bosnian Premier League;BOSNIA
+BULGARIA 1;Bulgarian A League;BULGARIA
+CYPRUS 1;Cypriot 1st Division;CYPRUS
+ESTONIA 1;Estonian Premier League;ESTONIA
+FINLAND 1;Finnish Veikkausliiga;FINLAND
+FINLAND 2;Finnish Ykkonen;FINLAND
+HUNGARY 1;Hungarian NB I;HUNGARY
+ISRAEL 1;Israeli Premier League;ISRAEL
+PARAGUAY 1;Paraguayan Primera Division;PARAGUAY
+POLAND 1;Polish Ekstraklasa;POLAND
+ROMANIA 1;Romanian Liga I;ROMANIA
+SERBIA 1;Serbian Super League;SERBIA
+SLOVAKIA 1;Slovakian Super League;SLOVAKIA
+SLOVENIA 1;Slovenian Premier League;SLOVENIA
+SOUTH AFRICA 1;South African Premier Division;SOUTH AFRICA
+SOUTH KOREA 1;South Korean K League 1;SOUTH KOREA
+SWEDEN 1;Swedish Allsvenskan;SWEDEN
+SWEDEN 2;Swedish Superettan;SWEDEN
+UKRAINE 1;Ukrainian Premier League;UKRAINE
+URUGUAY 1;Uruguayan Primera Division;URUGUAY
+ARGENTINA COPA;Argentinian Cup;ARGENTINA
+EGYPT 1;Egyptian Premier;EGYPT
+ENGLAND 5;English National League;ENGLAND
+ENGLAND U21;English U21 Pro Development League;ENGLAND
+EUROPA CHAMPIONS LEAGUE;UEFA Champions League;EUROPE
+EUROPA CONFERENCE LEAGUE;UEFA Europa Conference League;EUROPE
+EUROPA LEAGUE;UEFA Europa League;EUROPE
+FRANCE 3;French National;FRANCE
+FRANCE 4;French National 2;FRANCE
+ICELAND 1;Icelandic Urvalsdeild;ICELAND
+ICELAND 2;Icelandic 1 Deild;ICELAND
+IRELAND 1;Irish Premier Division;IRELAND
+IRELAND 2;Irish Division 1;IRELAND
+ITALY 4;Italian Serie D;ITALY
+MEXICO 2;Mexican Liga de Ascenso;MEXICO
+MOROCCO 1;Moroccan Bottom Pro 1;MOROCCO
+NORTHERN IRELAND 1;Northern Irish Premiership;NORTHERN IRELAND
+NORWAY 2;Norwegian 1st Division;NORWAY
+PERU 1;Peruvian Primera Division;PERU
+PORTUGAL 3;Portuguese Liga 3;PORTUGAL
+SCOTLAND 2;Scottish Championship;SCOTLAND
+SCOTLAND 3;Scottish League One;SCOTLAND
+SCOTLAND 4;Scottish League Two;SCOTLAND
+SOUTH KOREA 2;South Korean K League 2;SOUTH KOREA
+SPAIN 3;Spanish Primera Federación - Group 1;SPAIN
+SPAIN 4;Spanish Segunda Federación - Group 1;SPAIN
+SWITZERLAND 2;Swiss Challenge League;SWITZERLAND
+TUNISIA 1;Tunisian Ligue Professionelle 1;TUNISIA
+TURKEY 2;Turkish 1 Lig;TURKEY
+USA 2;US United Soccer League;USA
+VENEZUELA 1;Venezuelan Primera Division;VENEZUELA
+WALES 1;Welsh Premiership;WALES
